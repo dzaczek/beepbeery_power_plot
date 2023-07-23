@@ -1,6 +1,6 @@
-![beepberry(beepberry.jpg)
+![beepberry](beepberry.jpg)
 
-# Battery Monitoring and Logging with Gnuplot and Dialog for beepberry 
+# Battery Voltage  Monitoring and Logging with Gnuplot and Dialog for beepberry 
 
 This repository contains scripts to monitor and log battery status on beepberry system. The battery status is checked and logged periodically, and a gnuplot script is used to visualize the logged data. The user can interactively select a range for the plot using a text-based menu.
 
