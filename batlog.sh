@@ -14,4 +14,4 @@ OUTPUT=$(bash "$BAT_SCRIPT")
 CURRENT_DATETIME=$(date '+%Y-%m-%d %H:%M:%S')
 
 # write datetime and output to the log file
-sudo echo "$CURRENT_DATETIME,$OUTPUT" >> "$LOG_FILE"
+echo "$CURRENT_DATETIME,$OUTPUT" >> "$LOG_FILE"
