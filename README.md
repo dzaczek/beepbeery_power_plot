@@ -1,4 +1,4 @@
-
+![beepberry(beepberry.jpg)
 
 # Battery Monitoring and Logging with Gnuplot and Dialog for beepberry 
 
@@ -27,7 +27,6 @@ This repository contains scripts to monitor and log battery status on beepberry 
    ```
 
    This script will do the following:
-   - Update the system's package list.
    - Install the necessary dependencies: gnuplot and dialog.
    - Add a crontab entry to run `batlog.sh` every minute.
    - Copy the scripts to their respective locations.
