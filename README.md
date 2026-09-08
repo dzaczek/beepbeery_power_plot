@@ -2,6 +2,8 @@
 
 # Battery Voltage  Monitoring and Logging with Gnuplot and Dialog for beepberry 
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dzaczek)
+
 This repository contains scripts to monitor and log battery status on beepberry system. The battery status is checked and logged periodically, and a gnuplot script is used to visualize the logged data. The user can interactively select a range for the plot using a text-based menu.
 
 ## Scripts
@@ -41,10 +43,7 @@ batmon.sh
 
 You can then use the up and down arrow keys to select a range for the plot, and press Enter to confirm your selection.
 
-
 3. Important links 
-
-
 
 https://github.com/wallComputer/bbqX0kbd_driver
 ---
